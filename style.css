@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+body{
+    background-image:url(https://elauresnews.com/wp-content/uploads/2018/10/%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9-14.jpg);
+-webkit-background-size: cover ;
+background-size: cover ;
+background-position: center center;
+height: 100vh;
+}
+
+.Titel{
+    text-align: center;
+    color: blue;
+    
+}
+#Cheats1{
+    text-align: right    ;
+    color:white;
+}
+.Titel1{
+    text-align: center;
+    color: blue;
+    
+}
+
+#Cheats2{
+    text-align: center    ;
+    color:green;
+}
+#Cheats3{
+    text-align: center    ;
+    color: yellow;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    float: left;
+    margin-right: 1pc;
+    background-color:blanchedalmond;
+    padding: 7px;
+    border-radius: 12px;;
+}
+a{
+    text-decoration: none;
+    background-color: blue;
+
+}
+Li:hover{
+    background-color: black;
+    color: blue;
+
+}
+
